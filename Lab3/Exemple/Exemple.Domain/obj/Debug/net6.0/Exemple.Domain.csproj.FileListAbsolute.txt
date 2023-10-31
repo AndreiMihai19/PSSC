@@ -1,0 +1,12 @@
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\bin\Debug\net6.0\Exemple.Domain.deps.json
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\bin\Debug\net6.0\Exemple.Domain.dll
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\bin\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.csproj.AssemblyReference.cache
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.dll
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\refint\Exemple.Domain.dll
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\Exemple.Domain.pdb
+C:\Users\andre\OneDrive\Desktop\Lucrarea-03\Exemple\Exemple.Domain\obj\Debug\net6.0\ref\Exemple.Domain.dll
